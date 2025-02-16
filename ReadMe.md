@@ -1,1 +1,1 @@
-Learning MLOps
+Learning Git VCS
